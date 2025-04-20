@@ -1,25 +1,18 @@
 
-html, body {
-  width: 100vw;
-  height: 100vh;
-  overflow-x: hidden;
-  font-family: 'Inter', sans-serif;
-}
+
 .frame {
   display: flex;
   flex-direction: column;
   width: 1525px;
   height: 2500px;
   align-items: center;
+  gap: 100px;
   position: relative;
-  justify-content: flex-start;
-  gap: 50px;
   background: linear-gradient(
     180deg,
     rgba(181, 70, 211, 1) 30%,
     rgba(0, 0, 0, 1) 85%
   );
-  overflow-x: hidden;
 
 }
   .frame .div {
