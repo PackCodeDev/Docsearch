@@ -21,6 +21,7 @@ html, body {
     rgba(181, 70, 211, 1) 30%,
     rgba(0, 0, 0, 1) 85%
   );
+  overflow: hidden; /* ป้องกันไม่ให้ล้นขอบ */
 }
   
   .frame .div {
