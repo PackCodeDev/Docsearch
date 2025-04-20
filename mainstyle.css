@@ -12,11 +12,11 @@ html, body {
 .frame {
   display: flex;
   flex-direction: column;
-  width: 100%;
-  min-height: 100vh;
+  width: 1525px;
+  height: 2500px;
   align-items: center;
   justify-content: flex-start;
-  gap: 50px;
+  gap: 100px;
   background: linear-gradient(
     180deg,
     rgba(181, 70, 211, 1) 30%,
