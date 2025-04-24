@@ -60,8 +60,8 @@
   
   .feature .div-wrapper {
     display: flex;
-    width: 126px;
-    height: 42px;
+    width: 100px;
+    height: 26px;
     align-items: center;
     justify-content: center;
     gap: 10px;
@@ -76,16 +76,16 @@
   }
   
   .feature .text-wrapper-2 {
-    width: fit-content;
     margin-left: -4.50px;
     margin-right: -4.50px;
-    color: #ffffff;
     font-size: 20px;
-    text-align: center;
     white-space: nowrap;
     position: relative;
+    width: fit-content;
     font-family: "Inter-Regular", Helvetica;
     font-weight: 400;
+    color: #ffffff;
+    text-align: center;
     letter-spacing: 0;
     line-height: normal;
   }
